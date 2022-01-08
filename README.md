@@ -56,7 +56,7 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="100" width="100"
       alt="nodejs"/> 
   </a>
