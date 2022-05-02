@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=boshra-irnd&color=blueviolet)
+
 <p align="center">
   <img style="width:8rem; height:auto" src="https://i.pinimg.com/236x/a2/e4/cd/a2e4cd9b8a67082f633a678bef14f5d7.jpg"/>
 </p>
