@@ -1,6 +1,6 @@
 <h1 align="center">Boshra Irandoust</h1>
 <p align="center">
-  <b>Passionate about software development, with a focus on Python and Django.</b>
+  <b>Passionate about software development, with a focus on Python and Django REST framework.</b>
 </p>
 <p align="center">
 With a passion for programming spanning two years, I am dedicated to continuous learning and professional growth. My focus is on refining my skills and tackling new challenges every day. I'm enthusiastic about leveraging technology to solve complex problems and enhance user experiences. As a continuous learner in the field, I embrace challenges with an entrepreneurial spirit, always seeking innovative solutions to drive impactful results.
