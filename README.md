@@ -4,11 +4,6 @@
 </p>
 <p align="center">
 With a passion for programming spanning two years, I am dedicated to continuous learning and professional growth. My focus is on refining my skills and tackling new challenges every day. I'm enthusiastic about leveraging technology to solve complex problems and enhance user experiences. As a continuous learner in the field, I embrace challenges with an entrepreneurial spirit, always seeking innovative solutions to drive impactful results.
-<p align="center">
-  <a href="www.linkedin.com/in/boshra-irnd">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" alt="linkedin"/>
-  </a>
-</p>
 </p>
 
 ---
